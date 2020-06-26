@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-card{
+    height:150px;
+    background:linear-gradient(135deg, #0FF0B3 0%,#036ED9 100%);
+    border-radius:5px;
+}
+.card-icon{
+    font-size:57px;
+    color:#ffffff;
+}
+.card-text{
+    color:#ffffff;
+    font-size:14px;
+}
